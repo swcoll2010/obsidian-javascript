@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb154bf390cd552b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webpack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "package.json.md",
+                "file": "Webpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "package.json.md",
+                "file": "Webpack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "package.json.md"
+                "file": "Webpack.md"
               }
             }
           }
@@ -135,10 +148,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a0ab86aaa1b1e59a",
+  "active": "bb154bf390cd552b",
   "lastOpenFiles": [
-    "package-lock.json.md",
+    "Build and Bundling.md",
     "package.json.md",
+    "package-lock.json.md",
     "NPM Commands.md"
   ]
 }
